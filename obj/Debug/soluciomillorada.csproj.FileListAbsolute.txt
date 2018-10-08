@@ -1,0 +1,7 @@
+C:\Users\nilri\source\repos\ConsoleApp2\soluciomillorada\bin\Debug\soluciomillorada.exe.config
+C:\Users\nilri\source\repos\ConsoleApp2\soluciomillorada\bin\Debug\soluciomillorada.exe
+C:\Users\nilri\source\repos\ConsoleApp2\soluciomillorada\bin\Debug\soluciomillorada.pdb
+C:\Users\nilri\source\repos\ConsoleApp2\soluciomillorada\obj\Debug\soluciomillorada.csprojAssemblyReference.cache
+C:\Users\nilri\source\repos\ConsoleApp2\soluciomillorada\obj\Debug\soluciomillorada.csproj.CoreCompileInputs.cache
+C:\Users\nilri\source\repos\ConsoleApp2\soluciomillorada\obj\Debug\soluciomillorada.exe
+C:\Users\nilri\source\repos\ConsoleApp2\soluciomillorada\obj\Debug\soluciomillorada.pdb
